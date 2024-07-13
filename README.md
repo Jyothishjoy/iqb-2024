@@ -8,6 +8,10 @@ Four notebooks and an environment have been set up for the IQB 2024 workshop, [P
 
 Link to Preparing for the Molecular Docking Crash Course, https://docs.google.com/document/d/1c65GvAi7U_iJgHCuCGWpbeCoyHMqx2X_m70pdvxHpAI/edit
 
+Previous Course Links: 
+Python Scripting for Biochemistry & Molecular Biology | Part 1 https://pdb101.rcsb.org/train/training-events/python
+Python Scripting for Biochemistry & Molecular Biology | Part 2 https://pdb101.rcsb.org/train/training-events/python2
+
 ## Notebooks
 
 1. Enzyme Commission Class with Ligands (EC_ligand_search.ipynb)
